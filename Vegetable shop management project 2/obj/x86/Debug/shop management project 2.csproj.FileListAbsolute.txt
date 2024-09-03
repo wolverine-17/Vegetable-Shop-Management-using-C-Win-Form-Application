@@ -1,0 +1,54 @@
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\bin\Debug\shop management project 2.exe
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\bin\Debug\shop management project 2.pdb
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.Form1.resources
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.LOGIN_FORM.resources
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.Properties.Resources.resources
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.exe
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.pdb
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.customer.resources
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.mainform.resources
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.csproj.ResolveComReference.cache
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.customer2.resources
+C:\Users\Shree\Documents\Visual Studio 2010\Projects\friends\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.employee.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.csproj.ResolveComReference.cache
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.exe
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.pdb
+I:\shop management project 2\shop management project 2\bin\Debug\shop management project 2.exe
+I:\shop management project 2\shop management project 2\bin\Debug\shop management project 2.pdb
+I:\shop management project 2\shop management project 2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.customer.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.customer2.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.employee.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.Form1.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.LOGIN_FORM.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.mainform.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.Properties.Resources.resources
+I:\shop management project 2\shop management project 2\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\shop management project 2\shop management project 2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.csproj.ResolveComReference.cache
+D:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.exe
+D:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.pdb
+G:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.csproj.ResolveComReference.cache
+G:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.exe
+G:\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.pdb
+D:\New folder\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.csproj.ResolveComReference.cache
+D:\New folder\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.exe
+D:\New folder\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.pdb
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.csproj.ResolveComReference.cache
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.exe
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop management project 2.pdb
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\bin\Debug\shop management project 2.exe
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\bin\Debug\shop management project 2.pdb
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.customer.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.customer2.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.employee.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.Form1.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.LOGIN_FORM.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.mainform.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\shop_management_project_2.Properties.Resources.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\shop management project 2\shop management project 2\obj\x86\Debug\GenerateResource.write.1.tlog
